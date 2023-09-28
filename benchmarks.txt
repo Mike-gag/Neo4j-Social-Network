@@ -1,0 +1,26 @@
+---QUERY 1--
+Started streaming 1 records after 1 ms and completed after 1 ms.
+
+---QUERY 2---
+Started streaming 1 records after 1 ms and completed after 1 ms.
+
+---QUERY 3---
+Started streaming 1 records in less than 1 ms and completed after 112 ms.
+
+---QUERY 4---
+Started streaming 11 records in less than 1 ms and completed after 4 ms.
+
+---QUERY 5---
+Started streaming 7047 records after 1 ms and completed after 3 ms, displaying first 1000 rows.
+
+---QUERY 6---
+Started streaming 97 records after 1 ms and completed after 203 ms.
+
+---QUERY 7---
+Started streaming 1 records in less than 1 ms and completed after 240 ms.
+
+---QUERY 8---
+Started streaming 287960 records after 1 ms and completed after 4 ms, displaying first 1000 rows.
+
+---QUERY 9---
+Started streaming 85 records in less than 1 ms and completed after 233 ms.
